@@ -1,0 +1,13 @@
+{
+  "name": "amazonscrape-server",
+  "version": "0.0.0",
+  "script": {
+    "build": "tsc -p ."
+  },
+  "devDependencies": {
+    "typescript": "^3.5.3"
+  },
+  "dependencies": {
+    "typeorm": "^0.2.18"
+  }
+}
